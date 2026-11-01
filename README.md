@@ -1,6 +1,6 @@
 # COVID-19 Early Case Trend Analysis & Recovery Insights Engine
 
-Developed by **Akshey Sehgal** | B.Tech Robotics & AI  
+Developed by **Simar babbar** | MBA Business Analyst | Data Analyst 
 *Project for Corporate Placement Evaluation (HealthGuard Analytics Pvt. Ltd.)*
 
 ## 📌 Project Overview
